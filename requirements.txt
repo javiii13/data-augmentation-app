@@ -1,0 +1,5 @@
+# requirements.txt
+tensorflow>=2.8
+numpy>=1.21
+Pillow>=8.0
+PyQt5>=5.15
